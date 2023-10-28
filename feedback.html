@@ -1,0 +1,194 @@
+<HTML>
+
+<HEAD>
+    <title>Feedback</title>
+    <LINK rel="website icon" type="png" href="outlaws final.jpg">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="navbar.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        mark {
+            background-color: blue;
+            color: white;
+        }
+
+        .navbar {
+            height: 65px;
+        }
+
+        h1 {
+            font-size: 30px;
+        }
+
+        h3 {
+            font-size: 22px;
+        }
+
+        table {
+            font-size: 25px;
+        }
+
+        #indent {
+            text-indent: 30px;
+        }
+
+        body {
+            background-image: linear-gradient(120deg, rgb(255, 81, 0), lightblue, rgb(0, 132, 255));
+        }
+
+        /* #form{
+            margin-top:150px;
+        } */
+        .heading {
+            padding-top: 100px;
+        }
+    </style>
+</head>
+
+<BODY bgcolor=yellow>
+    <nav class="navbar">
+        <div class="left">
+            <h1>
+                <font color=red FACE=Bernard MT Condensed id="navh1"><b>Feedback</B></font>
+            </h1>
+        </div>
+        <div class="right">
+            <input type="checkbox" id="check">
+            <label for="check" class="checkBtn">
+                <i class="fa fa-bars"></i>
+            </label>
+            <ul class="list">
+                <li><a href="/">Home</a></li>
+                <li><a href="Gallary.html">Gallery</a></li>
+                <li><a href="https://sspn.netlify.app">SSPN</a></li>
+                <li><a href="otherlinks.html">Other links</a></li>
+                <!-- <li><a href="feedback.html">Feedback</a></li> -->
+                <li><a href="aboutdev.html">About</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </div>
+    </nav>
+    <FONT WIDTH=DEVICE WIDTH>
+        <h1 align=center class="heading">
+            <!-- <font size=7 face="elephant">--->
+            Feedback Page
+        </h1>
+    </font>
+    <FORM id="form" Action="Mailto:prakashkumar01031985@gmail.com?subject=FEEDBACK FROM BROTHERS OF OUTLAWS " ;""
+        Method="Post" enctype="Text/Plain">
+        <!-- <h3 style=" float:right"><a href="INDEX.HTML">Home</a></h3> -->
+        <div class="container">
+            <FORM>
+                <table>
+                    <tr>
+                        <td align="left">
+                            NAME:
+                        </td>
+                        <td id="indent" align="left">
+                            <input type="text" NAME="NAME" Placeholder="ENTER YOUR NAME" required><br><BR>
+                        </td>
+                    </tr>
+                    <tr>
+
+                        <td align="left">
+                            ADM NO:
+                        </td>
+
+                        <td id="indent" align="left">
+                            <input type="number" NAME="ADM NO" Placeholder="ENTER YOUR ADM NO" required><br><BR>
+                        </td>
+                    </tr>
+
+                    <!---HOUSE:<input type="color" name="HOUSE" required><BR><BR>
+DATE:<input type="date" name="DATE" required><BR><BR>
+TIME:<input type="time" name="TIME" required><BR><BR>
+PHOTO:<input type="file" name="PHOTO"><BR><BR>--->
+                    <tr>
+                        <td align="left">
+                            E-MAIL:
+                        </td>
+                        <td id="indent" align="left">
+                            <INPUT NAME="E-MAIL" Placeholder="ENTER YOUR E-MAIL" required><br><BR>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td align="left">
+                            PHONE:
+                        </td>
+                        <td id="indent" align="left">
+
+                            <INPUT type="number" NAME="PHONE" Placeholder="ENTER YOUR PHONE" required />
+                            <br><BR>
+                        </td>
+                    </tr>
+                    <!---Password:<input NAME="PASSWORD" Placeholder="ENTER PASSWORD HERE" type=password><BR><BR>
+Re-Password:<input NAME="RE-PASSWORD" Placeholder="RE-ENTER PASSWORD HERE" type=password>
+<BR><BR>--->
+                    <tr>
+                        <td align="left">
+                            SEX:
+                        </td>
+                        <td id="indent" align="left">
+                            <input type="radio" name="Gender" value="Male" required>Male
+                            <input type="radio" name="Gender" value="Female" required>Female
+                            <!-- <input type="radio" name="Gender" value="Rather not to say" required>Rather Not To Say -->
+                            <!-- <input type="radio" name="Gender" value="Rather not to say" required>Custome<br><BR> -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="left">
+                            STATE:
+                        </td>
+                        <td id="indent" align="left">
+                            <SELECT name="STATE" id="STATE">
+                                <OPTION SELECTED name="STATE" value="SELECT STATE">SELECT STATE</OPTION>
+                                <OPTION name="STATE" value="NAGALAND">NAGALAND</OPTION>
+                                <OPTION name="STATE" value="BIHAR">BIHAR</OPTION>
+                                <OPTION name="STATE" value="WEST BENGAL">WEST BENGAL</OPTION>
+                                <OPTION name="STATE" value="ARUNACHAL PRADESH">ARUNACHAL PRADESH</OPTION>
+                                <OPTION name="STATE" value="UTTER PRADESH">UTTER PRADESH </OPTION>
+                                <OPTION name="STATE" value="MANIPUR">MANIPUR</OPTION>
+                                <OPTION name="STATE" value="MIZORAM">MIZORAM</OPTION>
+                                <OPTION name="STATE" value="KERLA">KERLA</OPTION>
+                                <OPTION name="STATE" value="J&K">J&K</OPTION><br><BR>
+                                <OPTION name="STATE" value="Sikkim">Sikkim</OPTION>
+                                <OPTION name="STATE" value="Rajsthan">Rajsthan</OPTION>
+                                <OPTION name="STATE" value="Punjab">Punjab</OPTION>
+                                <OPTION name="STATE" value="Haryana">Haryana</OPTION>
+                            </select><BR><BR>
+                        </td>
+                    </tr>
+
+                    <tr>
+
+                        <td colspan="2" align="left">
+                            <textarea rows=10 cols=45 NAME="COMMENT"
+                                PLACEHOLDER="TELL US YOUR THOUGHTS ABOUT THIS WEBSITE.">
+                            </textarea>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td rowspan="3" align="left"><BR><input id="submit" type="submit" VALUE="SUBMIT"></td>
+                        <td rowspan="3" align="left"><BR><input type="Reset" VALUE="RESET"></td>
+                    </tr>
+                </table>
+        </div>
+        <!-- <BR><BR><BR>
+                    <input id="submit" type="submit" VALUE="SUBMIT">
+                    <input type="Reset" VALUE="RESET"> -->
+    </form>
+    <CENTER>
+        <h3>
+            <FONT COLOR=purple><mark>COPYRIGHT@1167</mark></font>
+        </h3>
+        <a href="index.html" target="_blank">
+            <img style="margin-top: 10px;margin-bottom: 50px;"
+                src="https://hitwebcounter.com/counter/counter.php?page=8741904&style=0001&nbdigits=5&type=ip&initCount=10"
+                title="Counter Widget" Alt="Visit counter For Websites" border="0" /></a>
+    </CENTER>
+</body>
+
+</html>
