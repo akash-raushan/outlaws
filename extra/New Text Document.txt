@@ -1,0 +1,16 @@
+<html>
+<center>
+<H1>SAGAR KUMAR</H1>
+<BR><BR>
+<img src="Sagar.jpeg" height=200, width=200>
+</center>
+<BR>
+<P><h3 ><font color="green">
+NAME: Cadet Sagar Kumar<BR><BR>
+D.O.B: <BR><BR>
+ADM.NO: 1083<BR><BR>
+House: Doyang<BR><BR>
+Class: 11<BR><BR>
+Subject: Computer Science<BR><BR>
+Nick Name: Cupcakes<BR><BR>
+Relationship Status: NO

@@ -1,0 +1,340 @@
+/*__________________________INDIVIDUAL PHOTO IN TD_________________________________*/
+
+
+
+/*-----------SAGAR--------*/
+
+.psagar {
+  width: 0px;
+  height: 0px;
+}
+
+.sagar:hover+.psagar {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+
+/*--------------LINJHON--------------*/
+.plinjhon {
+  width: 0px;
+  height: 0px;
+}
+
+.linjhon:hover+.plinjhon {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+
+/*------------GYATI------------------*/
+.pgyati {
+  width: 0px;
+  height: 0px;
+}
+
+.gyati:hover+.pgyati {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+
+/*------------SONAM------------------*/
+.psonam {
+  width: 0px;
+  height: 0px;
+}
+
+.sonam:hover+.psonam {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+
+
+/*------------RAJIB------------------*/
+.prajib {
+  width: 0px;
+  height: 0px;
+}
+
+.rajib:hover+.prajib {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+
+/*------------VIKASH------------------*/
+.pvikash {
+  width: 0px;
+  height: 0px;
+}
+
+.vikash:hover+.pvikash {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+/*------------ABHINAM------------------*/
+.pabhinam {
+  width: 0px;
+  height: 0px;
+}
+
+.abhinam:hover+.pabhinam {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+/*------------SHIVAM------------------*/
+.pshivam {
+  width: 0px;
+  height: 0px;
+}
+
+.shivam:hover+.pshivam {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+/*------------KRISHNA------------------*/
+.pkrishna {
+  width: 0px;
+  height: 0px;
+}
+
+.krishna:hover+.pkrishna {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+/*------------PRINCERAJ------------------*/
+.pprinceraj {
+  width: 0px;
+  height: 0px;
+}
+
+.princeraj:hover+.pprinceraj {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+/*------------AYUSH------------------*/
+.payush {
+  width: 0px;
+  height: 0px;
+}
+
+.ayush:hover+.payush {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+/*-----------HIMANSHU------------------*/
+.phimanshu {
+  width: 0px;
+  height: 0px;
+}
+
+.himanshu:hover+.phimanshu {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+/*-----------NIRBHAY------------------*/
+.pnirbhay {
+  width: 0px;
+  height: 0px;
+}
+
+.nirbhay:hover+.pnirbhay {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+
+/*-----------IMTO------------------*/
+.pimto {
+  width: 0px;
+  height: 0px;
+}
+
+.imto:hover+.pimto {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+
+/*-----------PAULUNGCHANG------------------*/
+.pPaulungchang {
+  width: 0px;
+  height: 0px;
+}
+
+.Paulungchang:hover+.pPaulungchang {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+/*-----------RICHARD------------------*/
+.prichard {
+  width: 0px;
+  height: 0px;
+}
+
+.richard:hover+.prichard {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+
+/*-----------MOLUNG------------------*/
+.pMolung {
+  width: 0px;
+  height: 0px;
+}
+
+.Molung:hover+.pMolung {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+
+/*-----------MOALICHEN------------------*/
+.pmoalichen {
+  width: 0px;
+  height: 0px;
+}
+
+.moalichen:hover+.pmoalichen {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+/*-----------PIYUSH------------------*/
+.ppiyush {
+  width: 0px;
+  height: 0px;
+}
+
+.piyush:hover+.ppiyush {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+/*-----------LAXMAN------------------*/
+.plaxman {
+  width: 0px;
+  height: 0px;
+}
+
+.laxman:hover+.plaxman {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+
+/*-----------VIMAL------------------*/
+.pvimal {
+  width: 0px;
+  height: 0px;
+}
+
+.vimal:hover+.pvimal {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+/*-----------KRISHNAKET------------------*/
+.pkrishnaket {
+  width: 0px;
+  height: 0px;
+}
+
+.krishnaket:hover+.pkrishnaket {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+/*-----------PRINCE------------------*/
+.pprince {
+  width: 0px;
+  height: 0px;
+}
+
+.prince:hover+.pprince {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+/*-----------Mhathung------------------*/
+.pMhathung {
+  width: 0px;
+  height: 0px;
+}
+
+.Mhathung:hover+.pMhathung {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
+
+/*-----------AKIREN------------------*/
+.pakiren {
+  width: 0px;
+  height: 0px;
+}
+
+.akiren:hover+.pakiren {
+  /* CSS rules for the div2 element when div1 is hovered */
+  width: 200px;
+  height: 200px;
+  transition: all 1s ease;
+}
